@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ACHILLES HOSPITAL</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f8fb;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #0077b6;
+            color: white;
+            padding: 20px;
+        }
+
+        main {
+            padding: 50px 20px;
+        }
+
+        h1 {
+            font-size: 40px;
+        }
+
+        p {
+            font-size: 22px;
+            color: #333;
+        }
+
+        footer {
+            background-color: #0077b6;
+            color: white;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>ACHILLES HOSPITAL</h1>
+    </header>
+
+    <main>
+        <h2>Welcome!</h2>
+        <p>Welcome to the best hospital in the world.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 ACHILLES HOSPITAL. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
